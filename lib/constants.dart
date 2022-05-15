@@ -1,0 +1,1 @@
+final String getAllPostsPath = "https://jsonplaceholder.typicode.com/posts";
